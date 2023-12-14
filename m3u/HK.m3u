@@ -48,7 +48,7 @@ http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb159489
 #EXTINF:-1 tvg-logo="" group-title="未分类",Hope
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
-https://hls.ulivetv.net/v/live/cfxp7kxld96o.m3u8?stream_id=cfxp7kxld96o&timestamp=1702535891&rand=wfWtSlKVU9&uuid=5ADoEbyJ1ecThScHetDXxY&from=web&sign=841f778dec3ef23cf2c3bd4f284a5337&stream_id=cfxp7kxld96o&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM
+
 #EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
 https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1684386186&rand=Ni8Rw6rndN&uuid=9b647b3816b2a66a&from=web&sign=ead53160d4dabd0506da91b89c483a6a
 #EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
