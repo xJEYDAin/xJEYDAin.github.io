@@ -47,6 +47,22 @@ http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D576742335767423
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 #EXTINF:-1 tvg-logo="" group-title="未分类",Hope
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",黄金翡翠台
+mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+http://nas.jdshipin.com:8801/gudoufc.php
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+http://60.208.16.27:1505/gudou.php?id=1350_4500
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+http://xxw.me0.cn/api/caonimei.php?live=tvbfct
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+https://iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
+http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
 https://hls.ulivetv.net/v/live/cfxp7kxld96o.m3u8?stream_id=cfxp7kxld96o&timestamp=1702536856&rand=bx9ehAex3l&uuid=mtgAGmE53tn5afQ2Y2uvKY&from=web&sign=66cabb9ecfa9dcfc63644cacaa2710ec&stream_id=cfxp7kxld96o&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM
 #EXTINF:-1 tvg-logo="" group-title="未分类",翡翠台
